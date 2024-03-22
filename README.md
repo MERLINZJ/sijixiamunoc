@@ -1,2 +1,5 @@
 # sijixiamunoc
-Ciallo !  There are some codes for c.
+Ciallo!
+这里用来存放一些教学用的代码。
+如果你没有看过我的教学视频，欢迎来 尚未输入网址观看哦。
+
